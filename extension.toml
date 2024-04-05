@@ -1,0 +1,11 @@
+id = "zed-haxe"
+name = "Haxe"
+version = "0.0.1"
+schema_version = 1
+authors = ["Cameron Taylor <cameron.taylor.ninja@gmail.com>"]
+description = "Haxe Tree Sitter for Zed"
+repository = "https://github.com/your-name/my-zed-extension"
+
+[grammars.haxe]
+repository = "https://github.com/vantreeseba/tree-sitter-haxe"
+commit = "93c3ce595e41727670f7c0e6c88afe16b5384f0d"
