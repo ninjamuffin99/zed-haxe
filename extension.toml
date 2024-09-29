@@ -8,4 +8,4 @@ repository = "https://github.com/ninjamuffin99/zed-haxe"
 
 [grammars.haxe]
 repository = "https://github.com/vantreeseba/tree-sitter-haxe"
-commit = "93c3ce595e41727670f7c0e6c88afe16b5384f0d"
+commit = "12e814cd9b0656b0eaa3e04b0036b3b6625cc0d7"
